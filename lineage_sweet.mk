@@ -30,6 +30,7 @@ TARGET_OPTOUT_GOOGLE_TELEPHONY := true
 
 # Blaze Maintainer
 ALPHA_MAINTAINER := franlop77
+ALPHA_BUILD_TYPE := Official
 
 PRODUCT_NAME := lineage_sweet
 PRODUCT_DEVICE := sweet

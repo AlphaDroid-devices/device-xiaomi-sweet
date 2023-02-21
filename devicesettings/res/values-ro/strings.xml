@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_summary">Personalizează aspectele specifice ale dispozitivului</string>
+    <string name="refresh_rate_title">Rata de reîmprospătare</string>
+    <string name="refresh_rate_summary">Schimbă rata de reîmprospătare a afișajului dispozitivului pentru o experiență mai bună</string>
+    <string name="enable_high_refresh_rate_title">Rată de reîmprospătare ridicată</string>
+    <string name="enable_high_refresh_rate_summary">Activează o rată de reîmprospătare ridicată pentru o experiență mai fluidă</string>
+    <string name="current_refresh_rate_info">Rata maximă / minimă de reîmprospătare <xliff:g id="version">%1$s</xliff:g>Hz - <xliff:g id="version">%2$s</xliff:g>Hz</string>
+    <string name="display_title">Afișaj</string>
+    <string name="dc_dimming_title">DC Dimming</string>
+    <string name="dc_dimming_summary">Activează DC Dimming pentru a evita pâlpâirea ecranului la niveluri scăzute de luminozitate</string>
+    <string name="sound_title">Sunet</string>
+    <string name="dirac_enable">Utilizare amplificator Mi Sound</string>
+    <string name="dirac_title">Amplificatorul de sunet Dirac</string>
+    <string name="dirac_summary">Configurează presetările de sunet, tipurile de căști și altele</string>
+    <string name="dirac_headset_title">Tip căști</string>
+    <string name="dirac_preset_title">Presetare sunet</string>
+    <string name="dirac_scenario_title">Scenariu sunet</string>
+    <string name="dirac_tile_on">Pornit</string>
+    <string name="dirac_tile_off">Oprit</string>
+    <string name="dirac_headset_default">Implicit</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston 1</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Ediție de bază</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Mi Piston 3</string>
+    <string name="dirac_headset_piston_youth">Ediție Youth</string>
+    <string name="dirac_headset_piston_color">Ediție Color</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Capsulă Mi</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling (Type-C)</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Căști Mi Basic</string>
+    <string name="dirac_headset_earphone">Căști Mi</string>
+    <string name="dirac_headset_ear_four">Căști Mi Quadruple Driver</string>
+    <string name="dirac_headset_piston_typec">Căști Mi In-Ear (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Căști Bluetooth Mi</string>
+    <string name="dirac_headset_redmi_earphones">Căști Redmi</string>
+    <string name="dirac_preset_default">Implicit</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clasic</string>
+    <string name="dirac_preset_hiphop">Hiphop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electronic</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dans</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_bass_booster">Amplificare Bas</string>
+    <string name="dirac_preset_balanced">Echilibrat</string>
+    <string name="dirac_preset_bass_reduction">Reducere Bas</string>
+    <string name="dirac_preset_treble_reduction">Reducere Frecvențe Înalte</string>
+    <string name="dirac_preset_soft_bass">Bass ușor</string>
+    <string name="dirac_preset_soft_treble">Frecvențe Înalte ușoare</string>
+    <string name="dirac_scenario_default">Implicit</string>
+    <string name="dirac_scenario_intelligent">Inteligent</string>
+    <string name="dirac_scenario_music">Muzică</string>
+    <string name="dirac_scenario_video">Video</string>
+    <string name="dirac_scenario_voice">Voce</string>
+    <string name="dirac_hifi_enable_title">Activare Hi-Fi</string>
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Se reduce zgomotul și distorsiunile și crește calitatea sunetului</string>
+    <string name="clear_speaker_title">Curățare difuzor</string>
+    <string name="clear_speaker_summary">Redă un sunet de 30 de secunde pentru a curăța difuzorul</string>
+    <string name="clear_speaker_description">Rulează această funcție o dată sau de două ori dacă descoperi că difuzorul este ușor blocat de praf. Setează volumul media la maxim.\n\nDacă difuzorul este blocat puternic, rulează această funcție de 2-5 ori în timp ce scuturi dispozitivul cu difuzorul îndreptat în jos.\n\nAVERTISMENT: asigură-te că toate căștile sunt deconectate.</string>
+    <string name="power_title">Alimentare</string>
+    <string name="thermal_title">Profiluri termice</string>
+    <string name="thermal_summary">Ajustează profilurile termice și ale ecranului tactil pentru fiecare aplicație</string>
+    <string name="thermal_default">Implicit</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Cameră</string>
+    <string name="thermal_dialer">Telefon</string>
+    <string name="thermal_gaming">Jocuri</string>
+    <string name="thermal_navigation">Navigare</string>
+    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_video">Video</string>
+    <string name="touch_game_mode_title">Pornire mod joc</string>
+    <string name="touch_game_mode_summary">Activează controalele manuale ale caracteristicilor ecranului tactil și crește performanța CPU și GPU</string>
+    <string name="touch_response_title">Răspuns la atingere</string>
+    <string name="touch_response_summary">Controlul răspunsului la atingere</string>
+    <string name="touch_sensitivity_title">Sensibilitate la atingere</string>
+    <string name="touch_sensitivity_summary">Controlul sensibilității la antigeri repetate</string>
+    <string name="touch_resistant_title">Zona rezistentă la atingere</string>
+    <string name="touch_resistant_summary">Se reduce sensibilitatea la atingere în apropierea marginilor pentru a evita declanșarea comenzilor tactile</string>
+    <string name="refresh_title">Profiluri rată de reîmprospătare</string>
+    <string name="refresh_summary">Setează o rată de reîmprospătare specifică pentru fiecare aplicație</string>
+    <string name="refresh_default">Implicit</string>
+    <string name="refresh_medium">Medie (60 Hz)</string>
+    <string name="refresh_high">Ridicată (90 Hz)</string>
+    <string name="refresh_extreme">Extremă (120 Hz)</string>
+</resources>

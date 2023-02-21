@@ -12,7 +12,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="device_settings_title">Setări specifice ale dispozitivului</string>
+    <string name="device_settings_title">Setări specifice dispozitivului</string>
     <string name="device_settings_summary">Personalizează aspectele specifice ale dispozitivului</string>
     <string name="refresh_rate_title">Rata de reîmprospătare</string>
     <string name="refresh_rate_summary">Schimbă rata de reîmprospătare a afișajului dispozitivului pentru o experiență mai bună</string>
